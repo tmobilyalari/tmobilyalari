@@ -1,6 +1,5 @@
 I'm OfluTEAM and wellcome to Turkey. I am working as a coder and 3d designer at TÜFEKÇİ OFFICE FURNITURE. My projects and more is here. We are happy to see you on our site.
 - http://tmob61.eu5.org/
-- http://88.237.182.164/
 - http://tm61.eu5.org/
 Or see my videos on youtube. https://www.youtube.com/channel/UCAeE_PJANxLlHjZJdWZSWlg
 
