@@ -1,12 +1,9 @@
-I'm OfluTEAM and wellcome to Turkey. I am working as a coder and 3d designer at TÜFEKÇİ OFFICE FURNITURE. My projects and more is here. We are happy to see you on our site.
-- http://tmob61.eu5.org/
+Merhaba ben Ogün Ahmet TÜFEKÇİ. Namıdeğer OfluTEAM. Yazılımcı ve bilgisayarcıyım ancak daha Sinop Üniversitesinde Öğrenciyim. Tüfekçi Büro / Ofis Mobilyalarından ayrıldım. Artık Yazılım Projeleri geliştirmeye ve üretmeye çalışıyorum. Bana ulaşmak ve / veya tavsiye, onarım, geliştirme, üretim tarzı işler yada destek, şikayet, öneri, vb. işlemler için aşağıdan ulaşabilirsiniz. CV ve Bilgiler mevcuttur link olarak veya whatsapptan atılır.
+- +905415684953 Ogün Ahmet TÜFEKÇİ
+- oguntufekci@gmail.com
 - http://tm61.eu5.org/
-Or see my videos on youtube. https://www.youtube.com/channel/UCAeE_PJANxLlHjZJdWZSWlg
+- http://tmob61.eu5.org/
+- http://teamaltinova.eu5.org/
+- https://www.youtube.com/channel/UCAeE_PJANxLlHjZJdWZSWlg
 
-If you want to host and domain your own site with just a raspberry pi and 75₺, you can contact us by e-mail here. Email: tmobilyalari@gmail.com
-Or you can contact us and buy furniture for your office / business.
-Phone numbers are as follows:
-- +905399293961 İshak TÜFEKCI
-- +905415684953 Ogun Ahmet TUFEKCI
-Everything is copyrighted on TÜFEKCI OFFICE FURNITURE. TÜFEKÇİ OFFICE FURNITURE was established in 2016. OfluTEAM is just a nickname and it's not real. However, the source of this project belongs to OfluTEAM (OGÜN AHMET TÜFEKÇİ).
-Location: Gülsuyu, Çeşmebaşı Yokuşu Cad. No: 27/B, 34848 Maltepe/İstanbul
+Eski projelerim burada mevcuttur, geliştirilmeye uygundur. Satış amacıyla kullanılması yasaktır. Takma adın tüm hakları şahsımındır. 2014-2023 Copyright by OfluTEAM 
